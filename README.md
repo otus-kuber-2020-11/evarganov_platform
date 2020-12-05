@@ -29,4 +29,4 @@ coredns-f9fd979d6   1         1         1       14h
 Образ: [evarganov/otus-k8s-2020](https://hub.docker.com/repository/docker/evarganov/otus-k8s-2020)
 
 ## Задание 3
-Под frontend не запускается из-за недостающих переменных окружения, которые были добавлены в манифест frontend-pod-healthy.yml
+Под frontend не запускается из-за недостающих переменных окружения, которые были добавлены в манифест frontend-pod-healthy.yaml
