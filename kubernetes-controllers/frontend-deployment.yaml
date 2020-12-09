@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: server
-        image: evarganov/hipster-paymentservice:v0.0.2
+        image: evarganov/hipster-frontend:v0.0.2
         readinessProbe:
             initialDelaySeconds: 10
             httpGet:
